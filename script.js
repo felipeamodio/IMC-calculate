@@ -35,6 +35,9 @@ function validar(){
 
   //peso/(altura*altura)
 
+  
+  
+
   var peso;
   var altura;
   var imc;
